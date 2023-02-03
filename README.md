@@ -12,11 +12,11 @@
 <ul>
 
 <h3><p align="center">General infromation<h3>
-    The Useage of this Repo is so that i can create a read me file with input into the termial.
+    The Useage of this Repo is so that i can create a note taker using fs and node .
     </p>
 
 <h3><p align="center">Setup<h3>`
-    This repo contains 2 json files, 2 js files , 1 read me file and a MIT license.
+    This repo contains 2 json files, 2 js files , 1 read me file ,1css file and a MIT license.
     
 <h3><p align="center">License<h3>
 This repo uses the MIT license 
@@ -37,7 +37,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <h3><p align="center">Screenshots<h3>
-This appcation does not have a deployed website
+
 
 
 <h3><p align="center">Accetance Criteria & User Story<h3>
@@ -62,5 +62,3 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 </p>
 
 <h3><p align="center">Links<h3>
-Below is a link to the recorded video because there will be no deployed website
-https://drive.google.com/file/d/1E3Q3YIyBsltqbWhs7WKd_ZsHYLkbZ9FS/view
