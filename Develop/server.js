@@ -55,7 +55,6 @@ app.delete('/api/notes/:id', (req, res) => {
     } else {
       let notes = JSON.parse(data);
       notes = notes.filter(note => note.id !== Number(req.params.id));
-      console.log(notes);
       fs.writeFile('db.json', JSON.stringify(notes), (err) => {
         if (err) {
           res.status(500).send({ error: 'Error writing to db.json file' });
