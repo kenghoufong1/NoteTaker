@@ -12,7 +12,8 @@
 <ul>
 
 <h3><p align="center">General infromation<h3>
-    The Useage of this Repo is so that i can create a read me file with input into the termial.
+    The Useage of this Repo is so that i can keep track of what i need to do
+   
     </p>
 
 <h3><p align="center">Setup<h3>`
